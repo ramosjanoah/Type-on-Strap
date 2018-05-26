@@ -26,6 +26,7 @@
         {% if page.title and page.hide != true %}
         {% if name_page contains page.title %}
         {% else %}
+        {{page.title}}
         <li class="separator"> | </li>
         <li>
             <a class="clear" href="{{ page.url | relative_url }}">
