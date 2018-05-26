@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: "/blog"
 url: "https://ramosjanoah.github.io"
-title: Ramos Janoah # site's title
+title: ramosjanoah # site's title
 description: "" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: @ramosjanoah # blog's title
+  title: ramosjanoah # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
