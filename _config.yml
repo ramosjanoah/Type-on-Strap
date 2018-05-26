@@ -9,13 +9,13 @@ description: "" # used by search engines
 theme_settings:
   # Meta
   title: ramosjanoah # blog's title
-  avatar: assets/img/triangle.svg
-  favicon: assets/favicon.ico
+  avatar: assets/img/me.png
+  favicon: assets/curl.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Every ideas is worth to share</p>
+     <p><i>Mau baca boleh, ngga juga gapapa</i></p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
