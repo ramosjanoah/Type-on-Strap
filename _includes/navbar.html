@@ -20,8 +20,7 @@
     <!-- Menu -->
     <ul class="hide">
         <!-- Auto Generation of NORMAL pages in the navbar -->
-        {% assign name_page = "Portfolio" %}
-
+        {% assign name_page = "" %}
         
         {% for page in site.pages %}
         {% if page.title and page.hide != true %}
@@ -37,7 +36,7 @@
         {% assign name_page = page.title | append: name_page %}
         {% endif %}
         {% endfor %} 
-        
+        {{ name_page }}
         <!-- Auto Generation of SPECIAL pages in the navbar -->
         {% for item in site.theme_settings.special_page %}
           {% if item[1].enabled %}
