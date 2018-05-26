@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
 baseurl: "/blog"
 url: "https://ramosjanoah.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Ramos Janoah # site's title
+description: "Every story is worth to share" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -22,7 +22,7 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: ramosj.noah@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
