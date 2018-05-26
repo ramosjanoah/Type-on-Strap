@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I made a blog!
-tags: [personal]
+tags: [Personal]
 excerpt_separator: <!--more-->
 ---
 
