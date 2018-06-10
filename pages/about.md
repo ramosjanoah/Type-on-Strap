@@ -6,7 +6,15 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Comment Policy]
 ---
 
-Bagian sini gua bikin _ntar_ ya. Maklum, web nya masih baru. Hehehe.
+Nama gue Ramos. Gue adalah seorang programmer dan data scientist wannabe. _Here are my CV, in case you are a freaking rich CEO and searching for talented data scientist_ :P I currently looking for a job!
+
+[My CV!](https://docs.google.com/document/d/e/2PACX-1vSBDzvGMLT74o0G6cRPEVxszd3uRjTEl-or2_TwDU2vu2BqmCRaTVj8lNF2jUa-1oatA4MkPrHDVUey/pub)
+
+_Enough about career_. 
+
+Gua lahir 25 Januari, 1996. Makanan kesukaan gua adalah _anythin' that correlate with cheese and dessert. I have obesity, my weights is 90kg and my heights is 160cm. Yes, if you look at me, i undoubtly looked like a freaking walking big ball._
+
+Hope you enjoy my blog. :)
 
 
 #### Sekaligus comment policy
