@@ -8,7 +8,7 @@ tags: [About, Comment Policy]
 
 Nama gue Ramos. Gue adalah seorang programmer dan data scientist wannabe. _Here are my CV, in case you are a freaking rich CEO and searching for talented data scientist_ :P I currently looking for a job!
 
-[My CV!](https://docs.google.com/document/d/e/2PACX-1vSBDzvGMLT74o0G6cRPEVxszd3uRjTEl-or2_TwDU2vu2BqmCRaTVj8lNF2jUa-1oatA4MkPrHDVUey/pub)
+[My CV!](https://drive.google.com/file/d/13VVVt8WrmMw1b0TvY6TgadVkcl8tRx6-/view?usp=sharing)
 
 _Enough about career_. 
 
