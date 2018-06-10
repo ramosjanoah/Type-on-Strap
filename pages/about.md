@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Comment Policy]
 ---
 
-Nama gue Ramos. Gue adalah seorang programmer dan data scientist wannabe. _My email is ramosj.noah@gmail.com, in case you are a freaking rich CEO and searching for talented data scientist_ :P I currently looking for a job!
+Nama gua Ramos. Gua adalah seorang programmer dan data scientist wannabe. _Here are [my email](ramosj.noah@gmail.com), in case you are a freaking rich CEO and searching for talented data scientist_ :P I currently looking for a job!
 
 Gua lahir 25 Januari, 1996. Makanan kesukaan gua adalah _anythin' that correlate with cheese and dessert. I have obesity, my weights is 90kg and my heights is 160cm. Yes, if you look at me, i undoubtly looked like a freaking walking big ball._
 
