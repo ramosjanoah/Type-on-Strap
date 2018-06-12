@@ -6,9 +6,7 @@ excerpt_separator: Sebenernya belum sih,
 thumbnail: "assets/img/post/akhirnya-lulus-juga/1.jpg"
 ---
 
-### Akhirnya (?), Lulus Juga
-
-_Finally, I'm graduated!_ 
+### _Finally, I'm graduated!_ 
 
 Sebenernya belum sih, tapi at least gua udah sidang. Gua sidang pada tanggal 4 Juni 2018. 
 
@@ -49,3 +47,27 @@ _With my circle, GA_ :D
 Gua mau berterima kasih untuk setiap orang yang bener-bener dukung gua dari awal TA ampe sekarang. Moga-moga gua ga lupa buat nulis nama kalian di kata pengantar. :v
 
 Dan untuk semua mahasiswa di sana yang berjuang untuk menyelesaikan tugas akhirnya, gua berdoa supaya  Tuhan memberkati kalian, dan diberikan kekuatan untuk menyelesaikan Tugas Akhirnya. Gua yakin, kita suatu saat akan di tempat yang sama. 
+
+### Why '?' ?
+
+Well, gue pake \(?) di judulnya, karena keraguan gua akan 'akhir' dari perjalanan gua kuliah.
+
+Di sisi lain, gua merasa tidak siap dalam 2 hal.
+
+#### Tidak siap kehilangan teman, lagi.
+
+Gua ngerasa sedih setiap ada perpisahan kaya gini. 
+
+Gua bakal lulus bulan Juli, kemudian, gua bakal misah sama yang lain. _Especially my circle._ Gua ga pernah siap ketika ada perpisahan. Ketika perpisahan itu terjadi, gua sebenernya biasa-biasa aja. Ga nangis, ga murung juga. Cuman ketika 1 bulan, 2 bulan, 3 bulan berlalu, dan masa-masa bersama mulai kecarian, disitulah gua mulai sedih. Gua tipe orang yang bisa memendam kesedihan sampe lamaaaaa banget. Dan bisa ke-_recall_ berulang kali. 
+
+But yeah, _i think no one ever ready to be aparted_.
+
+### Tidak siap nyari kerja
+
+Setelah gua selesai dengan semua perkara tugas akhir dan revisi-revisinya, gua harus nyari kerja. Disini adalah saat-saat penting dalam hidup gua, karena menurut gua ini _life changing_ banget. Hidup seseorang bisa berbeda jauh apabila memilih tempat kerja yang berbeda pada saat awal karirnya. Dan kembali, gua ga siap untuk memilih jalan hidup gua berikutnya. 
+
+Dari ketidak-siapan itu, gua jadi belajar sesuatu.
+
+Kita hanya berpindah dari satu kehidupan ke kehidupan lain. Masalah ke masalah lain. Penderitaan ke penderitaan lain. Dari yang awalnya menderita dalam TA, sekarang menderita untuk cari kerja dan menderita kehilangan teman. Emang sih, namanya hidup ya pasti gitu. Tapi kita sebagai manusia, emang kadang-kadang lelah dan jadi lupa bahwa sebenernya ini ga ada ujungnya. Dan di momen kita sadar bahwa _life (misery) is must go on_, disitulah kita merasa kita bukan tidak siap dalam kehidupan, dan yang bisa dilakukan hanyalah berpasrah.
+
+**_Yah, mungkin, akhir dari penderitaan, tidak selamanya indah._**
