@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Akhirnya lulus juga!
+title: Akhirnya (?), lulus juga!
 tags: [Personal]
 excerpt_separator: Sebenernya belum sih,
 thumbnail: "assets/img/post/akhirnya-lulus-juga/1.jpg"
