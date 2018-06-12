@@ -10,7 +10,7 @@ thumbnail: "assets/img/post/akhirnya-lulus-juga/1.jpg"
 
 Sebenernya belum sih, tapi at least gua udah sidang. Gua sidang pada tanggal 4 Juni 2018. 
 
-Buat para anak SMP-SMA yang gatau sidang itu kaya apa, jadi jika kuliah, lu akan dihadapi oleh tugas yang benar-benar terakhir dari masa perkuliahan lu. Beberapa jurusan nyebutnya skripsi, tugas akhir, tesis, dll. Di jurusan gua, Teknik Informatika ITB, disebutnya Tugas Akhir atau TA. TA ini dijalankan selama 2 semester atau 1 tahun. _Based on_ jurusan, once again, tapi di jurusan gua gitu. Dan di akhir dari TA, ada yang namanya sidang atau _final defense_, dimana disitu kita akan dihadapi oleh penguji (bisa lebih dari satu), dan akan ditanya-tanya tentang TA kita. Tujuannya untuk memastikan apakah kita mengerti yang kita lakukan dan apakah pemikiran kita untuk memecahkan suatu masalah sudah tepat atau belum.
+Buat para anak SMP-SMA yang gatau sidang itu kaya apa, jadi jika kuliah, lu akan dihadapi oleh tugas yang benar-benar terakhir dari masa perkuliahan lu. Beberapa jurusan nyebutnya skripsi, tugas akhir, tesis, dll. Di jurusan gua, Teknik Informatika ITB, disebutnya Tugas Akhir atau TA. TA ini dijalankan selama 2 semester atau 1 tahun. _Based on_ jurusan, _once again_, tapi di jurusan gua gitu. Dan di akhir dari TA, ada yang namanya sidang atau _final defense_, dimana disitu kita akan dihadapi oleh penguji (bisa lebih dari satu), dan akan ditanya-tanya tentang TA kita. Tujuannya untuk memastikan apakah kita mengerti yang kita lakukan dan apakah pemikiran kita untuk memecahkan suatu masalah sudah tepat atau belum.
 
 Menurut gua, sidang adalah saat yang lebih bahagia daripada wisuda. 
 
