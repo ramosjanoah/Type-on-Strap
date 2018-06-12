@@ -2,11 +2,14 @@
 layout: post
 title: I made a blog!
 tags: [Personal]
-excerpt_separator: |
+excerpt_separator: <!--more-->
 ---
 
-### Finally, i made a blog! |
+### Finally, i made a blog!
+
 Perkenalkan, nama gua Ramos. Ramos Janoah Hasudungan. Gua lahir di Bandung, 25 Januari 1996 dari kedua orang tua yang berdarah Batak. 
+
+<!-- more -->
 Tapi marga gua bukan Hasudungan. Yahh, banyak orang yang salah tentang itu. Marga gua Sitompul. Ya, semarga sama Ruhut Sitompul. Kenapa ga disebutin? Karena ga ada di akte kelahiran. Yah, ga penting.
 
 Jadi intinya gua akan mencoba memulai menulis blog. Kenapa? Karena gua rasa gua punya banyak hal yang bisa di-share ke orang-orang. Agak bodo amat sih, banyak yang baca ato ngga. Tujuan utamanya **nge-share**, bukan **dilihat**. Tapi sebenernya ada satu orang yang ingin gua _share_ banget cerita gua ini. Orang itu adalah...
