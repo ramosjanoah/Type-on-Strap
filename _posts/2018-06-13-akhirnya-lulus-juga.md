@@ -68,6 +68,6 @@ Setelah gua selesai dengan semua perkara tugas akhir dan revisi-revisinya, gua h
 
 Dari ketidak-siapan itu, gua jadi belajar sesuatu.
 
-Kita hanya berpindah dari satu kehidupan ke kehidupan lain. Masalah ke masalah lain. Penderitaan ke penderitaan lain. Dari yang awalnya menderita dalam TA, sekarang menderita untuk cari kerja dan menderita kehilangan teman. Emang sih, namanya hidup ya pasti gitu. Tapi kita sebagai manusia, emang kadang-kadang lelah dan jadi lupa bahwa sebenernya ini ga ada ujungnya. Dan di momen kita sadar bahwa _life (misery) is must go on_, disitulah kita merasa kita bukan tidak siap dalam kehidupan, tapi memang kita memang tidak pernah ditakdirkan untuk siap. Yang bisa dilakukan hanyalan menjalaninya. 
+Kita hanya berpindah dari satu kehidupan ke kehidupan lain. Masalah ke masalah lain. Penderitaan ke penderitaan lain. Dari yang awalnya menderita dalam TA, sekarang menderita untuk cari kerja dan menderita kehilangan teman. Emang sih, namanya hidup ya pasti gitu. Tapi kita sebagai manusia, emang kadang-kadang lelah dan jadi lupa bahwa sebenernya ini ga ada ujungnya. Dan di momen kita sadar bahwa _life (misery) is must go on_, disitulah kita merasa kita bukan tidak siap dalam kehidupan, tapi memang kita memang tidak pernah ditakdirkan untuk siap. Yang bisa dilakukan hanyala menjalaninya. 
 
 **_Yah, mungkin, akhir dari penderitaan, tidak selamanya indah._**
