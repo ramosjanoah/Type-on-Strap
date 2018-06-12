@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I made a blog!
+title: Finally, I made a blog!
 tags: [Personal]
 except_separator: <!--more-->
 ---
