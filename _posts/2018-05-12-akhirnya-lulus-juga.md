@@ -2,7 +2,7 @@
 layout: post
 title: Akhirnya lulus juga!
 tags: [Personal]
-excerpt_separator: Tapi marga gua
+excerpt_separator: Sebenernya belum sih,
 ---
 
 ### Akhirnya (?), Lulus Juga
