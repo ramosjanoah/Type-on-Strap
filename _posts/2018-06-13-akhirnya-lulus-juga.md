@@ -62,7 +62,7 @@ Gua bakal lulus bulan Juli, kemudian, gua bakal misah sama yang lain. _Especiall
 
 But yeah, _i think no one ever ready to be aparted_.
 
-### Tidak siap nyari kerja
+#### Tidak siap nyari kerja
 
 Setelah gua selesai dengan semua perkara tugas akhir dan revisi-revisinya, gua harus nyari kerja. Disini adalah saat-saat penting dalam hidup gua, karena menurut gua ini _life changing_ banget. Hidup seseorang bisa berbeda jauh apabila memilih tempat kerja yang berbeda pada saat awal karirnya. Dan kembali, gua ga siap untuk memilih jalan hidup gua berikutnya. 
 
