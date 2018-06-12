@@ -2,7 +2,7 @@
 layout: post
 title: I made a blog!
 tags: [Personal]
-excerpt_separator: <!--more-->
+except_separator: <!--more-->
 ---
 
 ### Finally, i made a blog!
