@@ -2,7 +2,8 @@
 layout: post
 title: I Hate Problem Case
 tags: [Career]
-excerpt_separator: Tapi marga gua
+excerpt_separator: Sedih banget
+thumbnail: "assets/img/post/i-hate-study-case/sedih.jpg"
 ---
 
 Jadi ceritanya, gua gagal interview lagi. Kali ini gua interview untuk sebuah perusahaan sebagai BI analyst, atau Data analyst, atau apalah itu, yang intinya adalah _the part of the Data Team_. Gua gagal hanya karena satu pertanyaan. Sedih banget ya :/. Perusahaannya.. Gua gabisa bilang apa, tapi yang jelas Unicorn. <!-- more -->
