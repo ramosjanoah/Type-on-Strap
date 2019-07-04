@@ -16,6 +16,6 @@ Ini pertanyaan yang kemaren banget, dan barusan banget gua bilang gua gagal. Jad
 ### 2. Ngasih Promo ke siapa?
 Case-nya di perusahaan travel agent. Misal, kita punya daftar user, pemakaiannya sekian, menggunakan promo sekian, dan semua data sudah ada dalam bentuk fine grained. Asumsikan kita punya data sebaik mungkin. Misal kita hanya bisa budget sehingga bisa memberikan promo tersebut ke 20% user. User mana yang kamu pilih untuk diberikan promo?
 
-Udah deh, itu aja. Gua cape ngetik. Ga sih, ga cape, sedih aja. Baru ditolak. Huhu :( \*padahal janjinya gaakan mengungkapkan emosi di sini tapi akhirnya ngungkapin juga lol maaf ya
+Udah deh, itu aja. Gua cape ngetik. Ga sih, ga cape, sedih aja. Baru ditolak. Huhu :(
 
 Ya begitulah. Harapan gua, gua bisa jawab pertanyaan itu 1 tahun kedepan. Anyway, pertanyaan kedua pun gua masih belom bisa jawab sampe sekarang, soalnya sekarang gua kerja sebagai SE, ga pernah ngulik problem case kaya gitu lagi. Jadi ya, mudah2an, gua bisa fokus untuk ngejer mimpi gue. Eh kok jadi serius amat. Udah ah. Bye.
