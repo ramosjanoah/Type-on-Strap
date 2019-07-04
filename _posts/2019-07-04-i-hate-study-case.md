@@ -5,9 +5,7 @@ tags: [Career]
 excerpt_separator: Tapi marga gua
 ---
 
-Gua cuman mau menggambarkan emosi gua pada judul aja, gamau terlalu menggambarkan pada isi dari post-nya. Isi post-nya bakal share pengalaman banget kok.
-
-Jadi ceritanya, gua gagal interview lagi. Kali ini gua interview untuk sebuah perusahaan sebagai BI analyst, atau Data analyst. Ya intinya sih tim Datanya si perusahaan itu. Gua gagal hanya karena satu pertanyaan. Sedih banget ya :/. Perusahaannya.. Gua gabisa bilang apa, tapi yang jelas Unicorn. 
+Jadi ceritanya, gua gagal interview lagi. Kali ini gua interview untuk sebuah perusahaan sebagai BI analyst, atau Data analyst, atau apalah itu, yang intinya adalah _the part of the Data Team_. Gua gagal hanya karena satu pertanyaan. Sedih banget ya :/. Perusahaannya.. Gua gabisa bilang apa, tapi yang jelas Unicorn. <!-- more -->
 
 Dan untuk mengenang kejadian ini, gua ingin menulis problem case dari pertanyaan-pertanyaan interview yang kemaren, dan yang dulu-dulu. Why? Karena gua percaya bahwa tidak ada yang percuma selama pengalamannya jadi pembelajaran. Nah, sekarang gua pengen nge-kompilasi pertanyaan-pertanyaan yang gua pernah gagal, dengan harapan, gua bisa ngeliat ini kembali untuk gua belajar. Okey, let's start!
 
