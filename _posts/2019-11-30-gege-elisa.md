@@ -18,7 +18,7 @@ Beberapa tahun pun berlalu, sampai akhirnya gua lulus dan kerja di Jakarta. Kemu
 
 Tibalah kesempatan gua bisa ketemu dia. Gua di SG, awal oktober, lagi liburan sama temen-temen gua yang tahu juga kalo gua mengidolai seorang Gege. Gua di SG dari hari Jumat sampe hari Senin malam. Hari minggu, kita memutuskan untuk ke Marina Barrage dari sore sekitar jam 5 sampai jam 6.30-07.00 PM di sana. PADAHAL DI SITU GEGE SEDANG ADA DI SG DAN SEDANG ADA DI SUPERTREE GROOVE (yang dimana cuman 1 kilo dan bisa jalan), ketahuan dari story-nya. Lemes banget waktu itu, bisa ketemu ama seorang idola, pas lagi liburan.
 
-Akhirnya, sampailah di bulan November. Gua berencana pulang tanggal 30 November ke Bandung. Sehari sebelumnya, ada pengumuman dari instagram Gege bahwa mereka akan melakukan cinema visit ke beberapa bioskop DI BANDUNG. Jadi Gege membintangi sebuah film, judulnya 'Nightmare Side', kolaborasi dengan Ardan. Karena erat dengan suasana Bandungm, makanya Cinema Visitnya di Bandung. GUA MELIHAT SEBUAH KESEMPATAN. Gua lihat jadwalnya, dan setibanya gua di Bandung, pulang, dan sedikit istirahat, gua berangkat ke BIP, cinema visit ke-2 mereka dari 3 visit di hari itu. Gua ke sana, tapi belum beli tiket, karena gua emang pengen ketemu Gege-nya. Sialnya, gua agak telat untuk nonton, jadi gua kira gua telat untuk melihat Gege. Gua menunggu di depan studio, berharap ada Gege yang keluar setelah cinema visit. 20 menit berlalu. 40 menit berlalu. Dan tidak ada tanda-tanda kehadiran Gege. Gua sempet mikir, "ngapain sih gua ngelakuin ginian". Tapi tiba-tiba semangat itu ada lagi, karena gua tau masih ada visit ketiga. Dimana? BUAH BATU. :) 
+Akhirnya, sampailah di bulan November. Gua berencana pulang tanggal 30 November ke Bandung. Sehari sebelumnya, ada pengumuman dari instagram Gege bahwa mereka akan melakukan cinema visit ke beberapa bioskop DI BANDUNG. Jadi, Gege membintangi sebuah film, judulnya 'Nightmare Side', kolaborasi dengan Ardan. Karena erat dengan suasana Bandungm, makanya Cinema Visitnya di Bandung. GUA MELIHAT SEBUAH KESEMPATAN. Gua lihat jadwalnya, dan setibanya gua di Bandung, pulang, dan sedikit istirahat, gua berangkat ke BIP, cinema visit ke-2 mereka dari 3 visit di hari itu. Gua ke sana, tapi belum beli tiket, karena gua emang pengen ketemu Gege-nya. Sialnya, gua agak telat untuk nonton, jadi gua kira gua telat untuk melihat Gege. Gua menunggu di depan studio, berharap ada Gege yang keluar setelah cinema visit. 20 menit berlalu. 40 menit berlalu. Dan tidak ada tanda-tanda kehadiran Gege. Gua sempet mikir, "ngapain sih gua ngelakuin ginian". Tapi tiba-tiba semangat itu ada lagi, karena gua tau masih ada visit ketiga. Dimana? BUAH BATU. :) 
 
 Gua dari Cimahi. Ke BIP. Terus ke Buah Batu. Naik Ojol. 
 
@@ -39,25 +39,37 @@ Ternyata Ka Gege disitu orangnya ramah sama semua orang. DAN SENYUM-NYA ITU OH M
 Eits, tidak sampai disitu. Gua tetep _stay close, but not to close to her_. Jadi gua cuman berdiri deket-deket dia, berharap bisa ngobrol. Pas dia tiba-tiba menjauh dari rombongan cinema visit-nya, gua mencuri kesempatan. 
 
 R: "Ka Gege, boleh foto lagi ga? Yang tadi ngeblur"
+
 G: "Oh boleh-boleh, yuk foto"
+
 R: Gua, ngasih hape ke mas-mas, "Mas tolong fotoin ya"
+
 G: "Makasih banget ya udah nonton. Gimana filmnya?"
 
 Mampus gue, gue kan cuman nonton 20 menit akhir kan yak. Ka Gege, kalo liat ini, maaf ya, aku takut horor jadinya cuman nonton 20 menit akhir. Tapi aku tetep beli tiketnya kok. Hehe. Tapi untungnya gua tetep punya kritik terhadap film itu. Adalah, gua ga perlu expose di blog ini sih.
 
 R: "Iya, menurutku gitu sih Ka", gua menyelesaikan kritikku.
+
 G: "Ah iya sihh, setuju sih aku juga. Emang susah sih kalo film tuh pasti gini gitu gini gitu". 
 
 Sumpah disini gua berusaha banget konsen. KARENA DISITU DIA CANTIK BANGET. Ngeliat aslinya jauh lebih cantik, asli.
 
 G: "Makasih ya, oh iya nama kamu siapa?"
+
 R: "Ramos". _WHAT THE DUCK SHE ASKED MY NAME._
+
 G: "Ah, oke-oke, makasih banyak loh Ramos"
+
 R: "Iya, sama-sama Ka. Aku ngefans banget sama Kaka. Tadi aku bahkan sempet ke BIP tapi telat, aku kira kaka udah pergi, jadi aku kesini deh, pengen ngejer Kaka"
+
 G: "Astaga jadi kamu nonton 2x? Makasih banyak loh." 
+
 R: "Hehe iya Ka sama-sama". Sebenernya gua ga nonton 2x, cuman biar cepet, gua iyain aja. Dia mau pergi soalnya
+
 R: "Abis ini mau langsung pulang Ka?"
+
 G: "Iya nih, langsung pulang. Aku duluan ya, Ramos"
+
 R: "Oke Ka, hati-hati ya"
 
 MIMPI DARI MANA GUA BISA NGOBROL KAYA GITU SAMA DIA. Pulang-pulang gua gabisa berhenti tersenyum membayangkan kejadian itu. Gua bahkan langsung tulis di blog supaya gua ga lupa apa yang terjadi hari ini. Meskipun fotonya blur, tapi itu cukup untuk jadi bukti dan kenangan gua. Bahwa gua pernah mengidolai dia dan pergi Cimahi-BIP-Buah Batu untuk ketemu dia. 
