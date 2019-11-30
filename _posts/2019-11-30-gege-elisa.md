@@ -24,7 +24,7 @@ Gua dari Cimahi. Ke BIP. Terus ke Buah Batu. Naik Ojol.
 
 Tapi gua mikir, "Kapan lagi bisa ketemu Gege?". Akhirnya, gua nekatkan diri, ke buah batu naik ojol. Gua sampai di sana 30 menit sebelumnya. Dan gua ngeliat dulu kondisi Bioskop, apakah ada tanda-tanda crew dari film dia ato tidak, dan ternyata tidak. Gua akhirnya mikir, jangan-jangan mereka sudah ada di tempat tertentu dan akan datang ketika film mau dimulai. Yasudah. Gua beli tiketnya, dan akhirnya gua masuk menunggu mereka. Dan ternyata, mereka tidak kunjung ada sampai film selesai.
 
-This is the embarassing part. Seperti judulnya, film Gege yang ini tuh film horror. GUA TUH PENAKUT. Gua gabisa nonton film horor. Setelah iklan-iklan sebelum film selesai dan tahu bahwa tidak ada Gege muncul saat itu, gua keluar Bioskop. Orang-orang pasti aneh banget ngeliat gua. Nunggu lama banget di dalem bioskop, pas film-nya mulai, gua malah keluar. 
+_This is the embarassing part_. Seperti judul filmnya, film Gege yang ini tuh film horror. GUA TUH PENAKUT SOAL GINIAN. Gua gabisa nonton film horor. Setelah iklan-iklan sebelum film selesai dan tahu bahwa tidak ada Gege muncul saat itu, gua keluar Bioskop. Orang-orang pasti aneh banget ngeliat gua. Nunggu lama banget di dalem bioskop, pas film-nya mulai, gua malah keluar. 
 
 Akhirnya gua keluar dengan pasrah. Harapan gua satu-satunya cuman berharap cinema visit-nya dilakukan SETELAH film itu selesai. Gua berencana masuk di 10-20 menit terakhir, at least gua dapet bagian ending-nya, tinggal epilog, sehingga gua tau filmnya tentang apa.
 
@@ -77,6 +77,6 @@ MIMPI DARI MANA GUA BISA NGOBROL KAYA GITU SAMA DIA. Pulang-pulang gua gabisa be
 ![With all :D]({{ site.baseurl }}/assets/img/post/gege-elisa/with-gege-1.jpg)
 ![With all :D]({{ site.baseurl }}/assets/img/post/gege-elisa/with-gege-2.jpg)
 
-Begitulah.
+Begitulah. Mungkin dia bersikap sangat baik karena dia tidak mau kehilangan fans-nya juga. Tapi tetep aja. The way she did everything, for me is so beautiful. _Thank you_, Ka Gege.
 
 _Thank God_, aku bisa punya kesempatan ini, selalu sehatkan dan sukseskan Ka Gege dimanapun dia berada. Meskipun suatu hari dia ga secantik sekarang, setidaknya ini histori yang aku ingin ingat, sebagai seorang pengagum sederhana yang impian kecilnya bisa terkabul. Semoga bisa ketemu lagi kapan-kapan. 
