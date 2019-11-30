@@ -2,13 +2,13 @@
 layout: post
 title: Gege Elisa
 tags: [Adore]
-excerpt_separator: namanya adalah Gege Elisa
+excerpt_separator: Gege Elisa.
 thumbnail: "assets/img/post/gege-elisa/gege-best.jpg"
 ---
 
-Kali ini gua mau bahas tentang satu orang wanita. Buat orang-orang yang udah kenalan, apalagi deket sampe gua masukkin _close friend instagram_, pasti tahu orang ini. Ya, namanya adalah Gege Elisa.
+Kali ini gua mau bahas tentang satu orang wanita. Buat orang-orang yang udah kenalan, apalagi deket sampe gua masukkin _close friend instagram_, pasti tahu orang ini. Ya, namanya adalah Gege. Gege Elisa.
 
-![With all :D]({{ site.baseurl }}/assets/img/post/gege-elisa/gege-latest.png)
+![Her latest photo :D]({{ site.baseurl }}/assets/img/post/gege-elisa/gege-latest.png)
 
 Gua tahu sosok Gege itu pertama kali ketika gua nonton vlog Raditya Dika, dia lagi nge-promoin sebuah film, judulnya adalah Ada Cinta di SMA. Film itu adalah film yang menjadikan Coboy Junior sebagai pentolan artisnya. Dan, pemeran cewenya waktu itu ada 3. Caitlin Halderman, Agatha Chelsea, dan Gege Elisa. Pertama kali melihat Gege ada bersama mereka, gua biasa aja. Malah gua lebih cenderung suka Caitlin waktu itu, meskipun gua aku disitu Gege juga cantik. _FYI_, Ada cinta di SMA itu tahun 2016, di saat gua masih kuliah.
 
